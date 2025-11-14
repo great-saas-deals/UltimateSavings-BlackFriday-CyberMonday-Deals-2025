@@ -23,7 +23,7 @@ We invite you to contribute to our curated list of deals for Black Friday and Cy
 If you have a deal to share, please add it by submitting a pull request. Make sure to place your deal at the end of the relevant category (first come, first merged).
 
 👤 **Non-Techie?**  
-No worries! You can submit your deal using this [form](https://github.com/great-saas-deals/UltimateSavings-BlackFriday-CyberMonday-Deals-2025/).
+No worries! You can submit your deal using this [form](https://forms.gle/vcd5GFC3zDucSsSW6).
 
 ---
 
