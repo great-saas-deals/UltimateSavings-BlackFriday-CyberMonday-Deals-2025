@@ -61,7 +61,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 **Deal:** 🤑 **Lifetime Deal – $59** (One-time payment)  
 **Link:** https://www.writecream.com/lifetime-deal  
-**Valid Until:** Nov 30, 2025
+**Valid Until:** Dec 31, 2025
 
 ---
 
@@ -111,7 +111,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 **Deal:** 🤑 **Lifetime Deal**  
 **Link:** Check redemption link for exact pricing  
-**Valid Until:** Nov 30, 2025
+**Valid Until:** Dec 31, 2025
 
 ---
 
