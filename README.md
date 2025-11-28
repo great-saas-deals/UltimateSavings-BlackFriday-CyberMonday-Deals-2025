@@ -6,15 +6,15 @@ Discover the best Black Friday and Cyber Monday 2025 software and SaaS deals! Fr
 
 ## 🛍️ Contents
 
-- 🤖 [AI Tools &amp; Automation](#ai-tools) — AI writing, image generation, and multi-model suites
-- 🌈 [Marketing &amp; Link Management](#marketing-tools) — Social media management, link optimization, and analytics
-- 🎨 [Design &amp; Content Tools](#design-tools) — AI image generators, carousel creators, QR code generators
-- 📧 [Email Marketing &amp; Communication](#email-tools) — Email platforms, outreach automation
-- 🛠️ [WordPress Plugins &amp; Tools](#wordpress-tools) — Forms, SEO, analytics, and more
-- ☁️ [Hosting &amp; Infrastructure](#hosting-tools) — Cloud hosting and managed services
-- 📹 [Video &amp; Content Creation](#video-tools) — AI video generators, streaming platforms
-- 💼 [Business &amp; Productivity](#business-tools) — CRM, customer support, productivity monitoring
-- 🔖 [Places to List Your Black Friday Deals](#places-to-list-your-black-friday-deals) — Share your own offers!
+- 🤖 [AI Tools &amp; Automation](#-ai-tools--automation) — AI writing, image generation, and multi-model suites
+- 🌈 [Marketing &amp; Link Management](#-marketing--link-management) — Social media management, link optimization, and analytics
+- 🎨 [Design &amp; Content Tools](#-design--content-tools) — AI image generators, carousel creators, QR code generators
+- 📧 [Email Marketing &amp; Communication](#-email-marketing--communication) — Email platforms, outreach automation
+- 🛠️ [WordPress Plugins &amp; Tools](#%EF%B8%8F-wordpress-plugins--tools) — Forms, SEO, analytics, and more
+- ☁️ [Hosting &amp; Infrastructure](#%EF%B8%8F-hosting--infrastructure) — Cloud hosting and managed services
+- 📹 [Video &amp; Content Creation](#-video--content-creation) — AI video generators, streaming platforms
+- 💼 [Business &amp; Productivity](#-business--productivity) — CRM, customer support, productivity monitoring
+- 🔖 [Places to List Your Black Friday Deals](#-places-to-list-your-black-friday-deals) — Share your own offers!
 
 ---
 
@@ -49,7 +49,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="ai-tools"></a>` 🤖 AI Tools & Automation
+## 🤖 AI Tools & Automation
 
 ### 🚀 Writecream: Your AI SEO + AEO/GEO Agent
 
@@ -224,7 +224,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="marketing-tools"></a>` 🌈 Marketing & Link Management
+## 🌈 Marketing & Link Management
 
 ### 🎯 ContentStudio.io: Your Ultimate Social Media Management Platform
 
@@ -371,7 +371,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="design-tools"></a>` 🎨 Design & Content Tools
+## 🎨 Design & Content Tools
 
 ### 🎨 Create QR Code: Dynamic QR Code Generator
 
@@ -419,7 +419,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="email-tools"></a>` 📧 Email Marketing & Communication
+## 📧 Email Marketing & Communication
 
 ### 📧 Stripo: Email Design Platform
 
@@ -463,7 +463,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="wordpress-tools"></a>` 🛠️ WordPress Plugins & Tools
+## 🛠️ WordPress Plugins & Tools
 
 ### 📝 WPForms: Best WordPress Forms Plugin
 
@@ -561,7 +561,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="hosting-tools"></a>` ☁️ Hosting & Infrastructure
+## ☁️ Hosting & Infrastructure
 
 ### ☁️ Cloudways: High-Performance Cloud Hosting
 
@@ -581,7 +581,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="video-tools"></a>` 📹 Video & Content Creation
+## 📹 Video & Content Creation
 
 ### 🎥 OneStream Live: Multi-Platform Live Streaming
 
@@ -594,7 +594,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="business-tools"></a>` 💼 Business & Productivity
+## 💼 Business & Productivity
 
 ### 📝 forms.app: Online Form Creator
 
@@ -681,7 +681,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## `<a name="places-to-list-your-black-friday-deals"></a>` 🔖 Places to List Your Black Friday Deals
+## 🔖 Places to List Your Black Friday Deals
 
 | # | Platform                                                                                             |
 | - | ---------------------------------------------------------------------------------------------------- |
