@@ -688,6 +688,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 1 | [indiegoodies](https://indiegoodies.com/blackfriday)                                                    |
 | 2 | [saasfridaydeals](https://saasfridaydeals.com/)                                                         |
 | 3 | [producthunt](https://www.producthunt.com/discussions/the-ultimate-product-hunt-black-friday-deal-list) |
+| 4 | [saasblackfriday](https://saasblackfriday.online) |
 
 ---
 
