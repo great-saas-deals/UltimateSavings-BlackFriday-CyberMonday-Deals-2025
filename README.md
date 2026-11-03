@@ -594,6 +594,39 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
+### 🖊️ Presentify: Screen Annotation for Mac
+
+**Description:** Presentify lets you draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. Made for presentations, calls, demos, and teaching. Native Mac app, featured by Apple. One-time purchase, no subscription.
+
+**Deal:** 💰 **30% OFF** ($14 → $9.80), direct purchase from the website only (not the App Store or Setapp)
+**Coupon Code:** PRESENTIFY30
+**Link:** https://presentifyapp.com
+**Valid:** Nov 18 - Dec 2, 2026
+
+---
+
+### 📷 FaceScreen: Floating Camera Overlay
+
+**Description:** FaceScreen adds a floating camera overlay to your screen, plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Works on Mac, iPhone, and iPad. One-time purchase, no subscription.
+
+**Deal:** 💰 **30% OFF** ($5.99 → $4.19), direct purchase from the website only (not the App Store or Setapp)
+**Coupon Code:** FACESCREEN30
+**Link:** https://facescreen.app
+**Valid:** Nov 18 - Dec 2, 2026
+
+---
+
+### ⌨️ KeyScreen: Show Keystrokes on Screen
+
+**Description:** KeyScreen shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app. One-time purchase, no subscription.
+
+**Deal:** 💰 **30% OFF** ($5.99 → $4.19), direct purchase from the website only (not the App Store or Setapp)
+**Coupon Code:** KEYSCREEN30
+**Link:** https://keyscreen.app
+**Valid:** Nov 18 - Dec 2, 2026
+
+---
+
 ## 💼 Business & Productivity
 
 ### 📝 forms.app: Online Form Creator
