@@ -681,6 +681,14 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
+### 🚀 BundleWP
+
+All 11 business software products in one bundle: FoodFleet (restaurant system), ShopKart (e-commerce system), Billify (billing software), Auto Lead Pilot AI, Site Commander MCP, Pro Fin Suite, DataXtract Pro, WooFlow Manager, Fin Tools Theme, All In One Smart Extractor, Orbit Meet. Lifetime access, license keys delivered automatically.
+
+**Deal:** 🤑 **Lifetime Deal – $129** (One-time payment, regular total $1,029) with code **BUNDLE129**
+
+**Link:** https://bundlewp.com/complete-business-software-bundle/
+
 ## 🔖 Places to List Your Black Friday Deals
 
 | # | Platform                                                                                             |
